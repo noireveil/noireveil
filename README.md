@@ -60,8 +60,10 @@
 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=312pv3xxobhzskeb4trnq34ufuli&count=5&unique=true" alt="Spotify recently played" valign="middle" />
-  &nbsp;&Bsp;&nbsp;
-  <img src="https://github-readme-hackerrank.vercel.app/api?username=yasyfi7&theme=dark_plus" alt="HackerRank Stats" valign="middle" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.codeabbey.com/index/user_profile/noireveill" target="_blank">
+    <img src="https://www.codeabbey.com/ranking/user_rank_shield/noireveill.png" alt="CodeAbbey Stats" valign="middle" />
+  </a>
 </div>
 
 ###
