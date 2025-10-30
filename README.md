@@ -59,11 +59,9 @@
 <br/> 
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=312pv3xxobhzskeb4trnq34ufuli&count=5&unique=true" alt="Spotify recently played" valign="middle" />
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.codeabbey.com/index/user_profile/noireveill" target="_blank">
-    <img src="https://www.codeabbey.com/ranking/user_rank_shield/noireveill.png" alt="CodeAbbey Stats" valign="middle" />
-  </a>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=312pv3xxobhzskeb4trnq34ufuli&count=5&unique=true" alt="Spotify recently played" />
+  <br/><br/>
+  [![Noireveill at CodeAbbey banner](https://www.codeabbey.com/index/user_banner/noireveill.png)](https://www.codeabbey.com/index/user_profile/noireveill)
 </div>
 
 ###
