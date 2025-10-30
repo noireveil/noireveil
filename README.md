@@ -61,7 +61,7 @@
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=312pv3xxobhzskeb4trnq34ufuli&count=5&unique=true" alt="Spotify recently played" />
   <br/><br/>
-  [![Noireveill at CodeAbbey banner](https://www.codeabbey.com/index/user_banner/noireveill.png)](https://www.codeabbey.com/index/user_profile/noireveill)
+  [![Noireveill at CodeAbbey banner](https://www.codeabbey.com/index/user_banner/Noireveill.png)](https://www.codeabbey.com/index/user_profile/Noireveill)
 </div>
 
 ###
