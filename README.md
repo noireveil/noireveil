@@ -60,6 +60,7 @@
 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=312pv3xxobhzskeb4trnq34ufuli&count=5&unique=true" alt="Spotify recently played" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noireveil&theme=radical" height="100" />
 </div>
 
 ###
