@@ -61,7 +61,7 @@
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=312pv3xxobhzskeb4trnq34ufuli&count=5&unique=true" alt="Spotify recently played" valign="middle" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stock-ticker.vercel.app/api/ticker?theme=aura&width=350&include_all_stocks=true&stocks=BTC,ETH,GOOGL,TSLA" alt="Stock Ticker" valign="middle" />
+  <img src="profile-summary-card-output/productive-time.svg" alt="Most Productive Time" valign="middle" />
 </div>
 
 ###
