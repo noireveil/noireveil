@@ -59,9 +59,9 @@
 <br/> 
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=312pv3xxobhzskeb4trnq34ufuli&count=5&unique=true" alt="Spotify recently played" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=312pv3xxobhzskeb4trnq34ufuli&count=5&unique=true" alt="Spotify recently played" valign="middle" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://readme-clock.vercel.app/api?theme=dark&timezone=Asia/Jakarta" alt="Live Clock" width="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/time-zones?timezone=Asia/Jakarta&theme=aura" alt="Live Clock" valign="middle" />
 </div>
 
 ###
