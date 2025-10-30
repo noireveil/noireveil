@@ -60,8 +60,8 @@
 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=312pv3xxobhzskeb4trnq34ufuli&count=5&unique=true" alt="Spotify recently played" valign="middle" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/hackerrank?username=yasyfi7&theme=aura" alt="HackerRank Stats" valign="middle" />
+  &nbsp;&Bsp;&nbsp;
+  <img src="https://github-readme-hackerrank.vercel.app/api?username=yasyfi7&theme=dark_plus" alt="HackerRank Stats" valign="middle" />
 </div>
 
 ###
