@@ -41,7 +41,7 @@
 
 <br clear="both">
 
-<br/><br/> 
+<br/> 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noireveil/noireveil/output/pacman-contribution-graph-dark.svg">
@@ -49,16 +49,16 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/noireveil/noireveil/output/pacman-contribution-graph.svg">
 </picture>
 
-<br/><br/> 
+<br/> 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=noireveil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noireveil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<br/><br/> 
+<br/> 
 
-<div align="left">
+<div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=312pv3xxobhzskeb4trnq34ufuli&count=5&unique=true" alt="Spotify recently played" />
 </div>
 
