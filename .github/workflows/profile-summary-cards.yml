@@ -22,3 +22,11 @@ jobs:
           CARD_TYPE: productive-time
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push generated card to branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: profile-summary-card-output
+          build_dir: profile-summary-card-output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
