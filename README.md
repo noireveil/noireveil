@@ -1,15 +1,14 @@
 ## 💫 About Me:
 
-A 4th-semester Computer Science student at Universitas Negeri Jakarta (UNJ) with a strong interest in the intersection of Software Engineering and Cyber Security. Current technical development focuses on building a solid foundation in **C++, Python, and Go**. These languages are actively utilized for automation scripting, building security tools, and designing backend services.
-
-Algorithmic problem-solving and vulnerability analysis skills are consistently honed through participation in Capture The Flag (CTF) challenges and Hackathons. 
-
-> **Note:** The repositories currently hosted here primarily consist of university coursework, academic assignments, and projects developed during hackathons/competitions. This accurately reflects the foundational stages of an ongoing educational journey. Independent projects, including custom security tools and backend services, will be incrementally added as technical explorations continue to develop.
+A 4th-semester Computer Science student at State University of Jakarta (Universitas Negeri Jakarta). My core interest lies in software development (web, mobile, desktop) and game development. Currently, I work primarily with **TypeScript** as my main language, alongside **Go** as my secondary language for various projects.
 
 ## 💻 Tech Stack:
 
-### Languages & Scripting
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### Languages
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+### Frameworks & Libraries
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt&logoColor=#00DC82) ![Gin](https://img.shields.io/badge/Gin-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ### Databases & Backend Services
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
