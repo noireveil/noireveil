@@ -1,6 +1,8 @@
 ## 💫 About Me:
 
-A 4th-semester Computer Science student at Universitas Negeri Jakarta (UNJ) with a strong interest in building software across multiple platforms. While my core strength lies in backend development using **Go** and **PostgreSQL**, I am actively integrating these systems with client-side applications. Currently focusing on **TypeScript** for web and mobile interfaces, and diving into **Rust** to explore lightweight desktop development.
+A Computer Science student at State University of Jakarta (Universitas Negeri Jakarta), dedicated to writing software that does exactly what it should, for as long as it should.
+
+My core strength is backend development with **Go** and **PostgreSQL**, while actively bridging those systems to client-side apps using **TypeScript** for web and mobile. I am also diving into **Rust** for lightweight desktop development. I sharpen these skills through competitive hackathons and self-driven projects built from the ground up.
 
 ## 💻 Tech Stack:
 
