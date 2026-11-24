@@ -2,15 +2,17 @@
 
 A Computer Science student at State University of Jakarta (Universitas Negeri Jakarta), dedicated to writing software that does exactly what it should, for as long as it should.
 
-My core strength is backend development with **Go** and **PostgreSQL**, while actively bridging those systems to client-side apps using **TypeScript** for web and mobile. I am also diving into **Rust** for lightweight desktop development. I sharpen these skills through competitive hackathons and self-driven projects built from the ground up.
+My main focus is backend development with **Go** and **PostgreSQL**, and I use **TypeScript** for fullstack web work. I learn through competitions and self-driven projects built from the ground up.
+
+Currently exploring **React Native** for mobile and **GPUI** (a Rust UI framework) for lightweight desktop apps.
 
 ## 💻 Tech Stack:
 
 ### Core Languages
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Frameworks & Platforms
-![Gin](https://img.shields.io/badge/Gin-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white) ![Tauri](https://img.shields.io/badge/Tauri-24292E?style=for-the-badge&logo=tauri&logoColor=%23FFC131)
+### Frameworks
+![Fiber](https://img.shields.io/badge/Fiber-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### Databases & Storage
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
